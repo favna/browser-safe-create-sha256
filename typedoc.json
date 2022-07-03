@@ -1,0 +1,7 @@
+{
+	"out": "./docs/",
+	"readme": "./README.md",
+	"name": "@sapphire/browser-safe-create-sha256",
+	"entryPoints": ["src/index.ts"],
+	"tsconfig": "./src/tsconfig.json"
+}
